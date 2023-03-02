@@ -19,4 +19,3 @@ int main(void)
     _putchar('\n');
     return (0);
 }
-julien@ubuntu:~/0x06$ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 101-main.c 101-print_number.c -o 101-print_numbers
