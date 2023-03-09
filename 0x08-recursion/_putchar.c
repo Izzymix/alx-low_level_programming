@@ -1,11 +1,10 @@
 #include "main.h"
 #include <unistd.h>
-
 /**
- *_putchcar
+ *_putchcar - write the 
+ *@c: The charactyer to p
  *
- *
- *Return: on success 1
+ *Return: on success 1.
  *
  * on error, -1 is returned,
  */
